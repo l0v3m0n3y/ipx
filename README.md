@@ -1,7 +1,6 @@
 # ipx
 JavaScript library for ipx.ac
 # main
-# main
 ```js
 async function main(){
     const {ipx} = require('./ipx');
